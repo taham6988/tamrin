@@ -1,0 +1,171 @@
+body {
+     /* background-color: #121212; */
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;   
+    /* min-height: 100vh; */
+}
+
+.A{
+  display: flex;           /* فعال کردن فلکس‌باکس */
+  justify-content: center; /* وسط‌چین کردن افقی */
+  align-items: center;
+  margin-top: -110px;
+margin-right: 30px;
+margin-left: 10px;
+width: 250px;
+height: 150px;
+border-radius: 20px;
+}
+
+.box{
+    /* background-color:#0B0D11; */
+    background: linear-gradient(to bottom, #0B0D11, #1B1411);
+      min-height: 100vh;
+    /* width: 350px;
+    padding: 80px;
+    border-radius: 20px;
+    box-shadow: 0 30px 70px rgba(240, 240, 240, 0.2); */
+    text-align: right;
+
+}
+
+
+.E{
+  height: 100px;
+}
+
+.B{
+     margin-right: 30px;
+ margin-left: 10px;
+  width: 540px;
+height: 350px;
+border-radius: 20px;
+  box-shadow: 0 30px 70px rgba(240, 240, 240, 0.2);
+}
+
+.C{
+float: left;
+margin-left: 30px;
+margin-right: 10px;
+width: 540px;
+height: 350px;
+border-radius: 20px;
+box-shadow: 0 30px 70px rgba(240, 240, 240, 0.6);
+}
+
+.text{
+text-align: center;
+font-size: 60px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #f5f5dc;
+}
+
+.D{
+margin-top: 80px;
+text-align: center;
+width: 200px;
+height: 200px;
+border-radius: 200px;
+}
+
+.E{
+  margin-top: -60px;
+}
+
+.F{
+margin-top: -10px;
+}
+
+
+.menu-box {
+    /* background-color: #3e2723;  */
+    padding: 60px;            
+    border-radius: 20px;      
+    /* box-shadow: 0 20px 40px #e5d3b3;  */
+    display: flex;             
+    gap: 50px;                
+}
+
+
+.column {
+    display: flex;
+    flex-direction: column;  
+    gap: 20px;                
+}
+
+/* ۴. استایل عکس‌ها */
+.menu-box img {
+    width: 240px;
+    height: 240px;
+    object-fit: cover;      
+    border-radius: 10px;     
+    border: solid #e5d3b3;
+}
+
+.text-menu{
+    text-align: center;
+    font-size: 60px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #f5f5dc;
+}
+
+.H{
+    text-align: center;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: bold;
+color:#e5d3b3;
+}
+
+.i{
+    text-align: center;
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #f5f5dc;
+}
+
+/* .j{
+text-align: center;
+margin-top: -100px;
+
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #f5f5dc;
+} */
+
+/* .k{
+margin-top: -20px;
+text-align: left;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #f5f5dc;
+} */
+
+.butten{
+    color:#3e2723;
+border-radius: 10px; 
+background-color: rgb(166, 137, 120);
+    border: solid #3e2723;
+    height: 50px;
+}
+
+.link{
+    color: rgb(46, 208, 208);
+}
+
+.insta{
+    color:#f5f5dc ;
+}
+
+.number{
+    color:#f5f5dc ;
+}
+
+.hr{
+    margin-top: 10px;
+}
+
+.Location{
+color:#f5f5dc ;
+}
+
